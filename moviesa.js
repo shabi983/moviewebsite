@@ -71,7 +71,7 @@ const thumbnails = [
     categories: "thriller",
     language: "english",
     videoLink: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    image: "https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2024/01/09/2298136643710/LIFE_US_2017_SA_16x9_1920x1080_2588610_1920x1080.jpg"
+    image: ""
   },
   // Add more thumbnails as needed...
 ];
